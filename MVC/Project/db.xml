@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><class>
+    <cakeshop>
+        <name>Sweetie Pie</name>
+        <idUser>1</idUser>
+        <idUser>3</idUser>
+        <idCake>1.0</idCake>
+        <idCake>5.0</idCake>
+
+
+        <idCake>14.0</idCake>
+
+    </cakeshop>
+
+    <cakeshop>
+        <name>Baked</name>
+        <idUser>2</idUser>
+        <idUser>4</idUser>
+        <idUser>5</idUser>
+        <idCake>2.0</idCake>
+        <idCake>3.0</idCake>
+        <idCake>4.0</idCake>
+        <idCake>9.0</idCake>
+        
+    </cakeshop>
+
+    <cakeshop>
+        <name>The Cake Pop Shop</name>
+        <idUser>6</idUser>
+        <idUser>7</idUser>
+        <idCake>6.0</idCake>
+        <idCake>1.0</idCake>
+        <idCake>2.0</idCake>
+    </cakeshop>
+
+    <cakeshop>
+        <name>Cupcake Boulevard</name>
+        <idUser>8</idUser>
+        <idUser>9</idUser>
+        <idUser>10</idUser>
+        <idCake>10.0</idCake>
+    </cakeshop>
+
+    <cakeshop>
+        <name>Regal Cake</name>
+        <idUser>11</idUser>
+        <idUser>12</idUser>
+        <idCake>7.0</idCake>
+        <idCake>8.0</idCake>
+    </cakeshop>
+
+    <user>
+        <id>1</id>
+        <name>admin</name>
+        <role>admin</role>
+        <password>admin</password>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>angajat</name>
+        <role>employee</role>
+        <password>angajat</password>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Pop Marius</name>
+        <password>popmarius</password>
+        <role>employee</role>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Rad Timotei</name>
+        <password>rimot</password>
+        <role>employee</role>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Baica Alex</name>
+        <password>balex</password>
+        <role>admin</role>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Mihea Mihai</name>
+        <password>mmihai</password>
+        <role>employee</role>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Rig Rares</name>
+        <password>rrase</password>
+        <role>employee</role>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Urs Catalin</name>
+        <password>catau</password>
+        <role>admin</role>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Nic Ana</name>
+        <password>eempl</password>
+        <role>employee</role>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Mors Adi</name>
+        <password>adimr</password>
+        <role>employee</role>
+    </user>
+
+    <user>
+        <id>11</id>
+        <name>Emil Victoria</name>
+        <password>victoria</password>
+        <role>admin</role>
+    </user>
+
+    <user>
+        <id>12</id>
+        <name>Pris Andreea</name>
+        <password>prandre</password>
+        <role>admin</role>
+    </user>
+
+    <cake>
+        <id>1.0</id>
+        <name>Carrot cake</name>
+        <disponibility>20</disponibility>
+        <availability>12-04-2021</availability>
+        <price>100.0</price>
+    </cake>
+
+    <cake>
+        <id>2.0</id>
+        <name>Cheese cake</name>
+        <disponibility>12</disponibility>
+        <availability>10-04-2021</availability>
+        <price>120.0</price>
+    </cake>
+
+    <cake>
+        <id>3.0</id>
+        <name>Sponge cake</name>
+        <disponibility>30</disponibility>
+        <availability>25-04-2021</availability>
+        <price>80.0</price>
+    </cake>
+
+    <cake>
+        <id>4.0</id>
+        <name>Chocolate cake</name>
+        <disponibility>20</disponibility>
+        <availability>19-04-2021</availability>
+        <price>200.0</price>
+    </cake>
+
+    <cake>
+        <id>5.0</id>
+        <name>Vanilla cake</name>
+        <disponibility>10</disponibility>
+        <availability>15-04-2021</availability>
+        <price>120.0</price>
+    </cake>
+
+    <cake>
+        <id>6.0</id>
+        <name>Lava cake</name>
+        <disponibility>40</disponibility>
+        <availability>30-04-2021</availability>
+        <price>70.0</price>
+    </cake>
+
+    <cake>
+        <id>7.0</id>
+        <name>Biscuit cake</name>
+        <disponibility>20</disponibility>
+        <availability>03-04-2021</availability>
+        <price>70.0</price>
+    </cake>
+
+    <cake>
+        <id>8.0</id>
+        <name>Chiffon cake</name>
+        <disponibility>5</disponibility>
+        <availability>02-04-2021</availability>
+        <price>123.0</price>
+    </cake>
+
+    <cake>
+        <id>9.0</id>
+        <name>Red Velvet cake</name>
+        <disponibility>15</disponibility>
+        <availability>10-04-2021</availability>
+        <price>130.0</price>
+    </cake>
+
+    <cake>
+        <id>10.0</id>
+        <name>Pancakes</name>
+        <disponibility>20</disponibility>
+        <availability>30-03-2021</availability>
+        <price>50.0</price>
+    </cake>
+
+    <cake>
+        <id>11.0</id>
+        <name>aa</name>
+        <disponibility>5</disponibility>
+        <availability>10-06-2021</availability>
+        <price>12.0</price>
+    </cake>
+    <cake>
+        <id>12.0</id>
+        <name>aa</name>
+        <disponibility>5</disponibility>
+        <availability>10-06-2021</availability>
+        <price>12.0</price>
+    </cake>
+    <cake>
+        <id>13.0</id>
+        <name>uuuu</name>
+        <disponibility>2</disponibility>
+        <availability>10-10-2021</availability>
+        <price>1.0</price>
+    </cake>
+    <cake>
+        <id>14.0</id>
+        <name>Choc cake</name>
+        <disponibility>43</disponibility>
+        <availability>12-12-2021</availability>
+        <price>12.0</price>
+    </cake>
+    <cake>
+        <id>15.0</id>
+        <name>Dtel</name>
+        <disponibility>2</disponibility>
+        <availability>12-10-2021</availability>
+        <price>13.0</price>
+    </cake>
+    <cake>
+        <id>16.0</id>
+        <name>Tort</name>
+        <disponibility>23</disponibility>
+        <availability>10-12-2021</availability>
+        <price>23.0</price>
+    </cake>
+    
+</class>
